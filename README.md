@@ -1,0 +1,2 @@
+# myyiiwechatdemo
+for wechat practice
