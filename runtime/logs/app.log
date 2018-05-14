@@ -1,0 +1,456 @@
+2018-03-16 22:43:36 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "statics/mch/css/bootstrap.min.css.map". in F:\www\alone.cn\vendor\yiisoft\yii2\base\Module.php:532
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('statics/mch/css...', Array)
+#1 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: 页面未找到。 in F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php:114
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#2 {main}
+2018-03-16 22:43:38 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "statics/mch/css/bootstrap.min.css.map". in F:\www\alone.cn\vendor\yiisoft\yii2\base\Module.php:532
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('statics/mch/css...', Array)
+#1 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: 页面未找到。 in F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php:114
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#2 {main}
+2018-03-16 22:43:42 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "statics/mch/css/bootstrap.min.css.map". in F:\www\alone.cn\vendor\yiisoft\yii2\base\Module.php:532
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('statics/mch/css...', Array)
+#1 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: 页面未找到。 in F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php:114
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#2 {main}
+2018-03-16 22:43:43 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "statics/mch/css/bootstrap.min.css.map". in F:\www\alone.cn\vendor\yiisoft\yii2\base\Module.php:532
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('statics/mch/css...', Array)
+#1 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: 页面未找到。 in F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php:114
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#2 {main}
+2018-03-16 22:43:43 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "statics/mch/css/bootstrap.min.css.map". in F:\www\alone.cn\vendor\yiisoft\yii2\base\Module.php:532
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('statics/mch/css...', Array)
+#1 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: 页面未找到。 in F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php:114
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#2 {main}
+2018-03-16 22:44:12 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "statics/mch/css/bootstrap.min.css.map". in F:\www\alone.cn\vendor\yiisoft\yii2\base\Module.php:532
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('statics/mch/css...', Array)
+#1 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: 页面未找到。 in F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php:114
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#2 {main}
+2018-03-16 22:44:13 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "statics/mch/css/bootstrap.min.css.map". in F:\www\alone.cn\vendor\yiisoft\yii2\base\Module.php:532
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('statics/mch/css...', Array)
+#1 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: 页面未找到。 in F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php:114
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#2 {main}
+2018-03-16 22:44:14 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "statics/mch/css/bootstrap.min.css.map". in F:\www\alone.cn\vendor\yiisoft\yii2\base\Module.php:532
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('statics/mch/css...', Array)
+#1 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: 页面未找到。 in F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php:114
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#2 {main}
+2018-03-16 22:44:15 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "statics/mch/css/bootstrap.min.css.map". in F:\www\alone.cn\vendor\yiisoft\yii2\base\Module.php:532
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('statics/mch/css...', Array)
+#1 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: 页面未找到。 in F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php:114
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#2 {main}
+2018-03-16 22:44:15 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "statics/mch/css/bootstrap.min.css.map". in F:\www\alone.cn\vendor\yiisoft\yii2\base\Module.php:532
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('statics/mch/css...', Array)
+#1 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: 页面未找到。 in F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php:114
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#2 {main}
+2018-03-16 22:44:16 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "statics/mch/css/bootstrap.min.css.map". in F:\www\alone.cn\vendor\yiisoft\yii2\base\Module.php:532
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('statics/mch/css...', Array)
+#1 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: 页面未找到。 in F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php:114
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#2 {main}
+2018-03-16 22:44:16 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "statics/mch/css/bootstrap.min.css.map". in F:\www\alone.cn\vendor\yiisoft\yii2\base\Module.php:532
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('statics/mch/css...', Array)
+#1 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: 页面未找到。 in F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php:114
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#2 {main}
+2018-03-16 22:44:17 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "statics/mch/css/bootstrap.min.css.map". in F:\www\alone.cn\vendor\yiisoft\yii2\base\Module.php:532
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('statics/mch/css...', Array)
+#1 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: 页面未找到。 in F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php:114
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#2 {main}
+2018-03-16 22:44:17 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "statics/mch/css/bootstrap.min.css.map". in F:\www\alone.cn\vendor\yiisoft\yii2\base\Module.php:532
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('statics/mch/css...', Array)
+#1 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: 页面未找到。 in F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php:114
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#2 {main}
+2018-03-16 22:44:18 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "statics/mch/css/bootstrap.min.css.map". in F:\www\alone.cn\vendor\yiisoft\yii2\base\Module.php:532
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('statics/mch/css...', Array)
+#1 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: 页面未找到。 in F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php:114
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#2 {main}
+2018-03-16 22:44:18 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "statics/mch/css/bootstrap.min.css.map". in F:\www\alone.cn\vendor\yiisoft\yii2\base\Module.php:532
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('statics/mch/css...', Array)
+#1 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: 页面未找到。 in F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php:114
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#2 {main}
+2018-03-16 22:44:19 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "statics/mch/css/bootstrap.min.css.map". in F:\www\alone.cn\vendor\yiisoft\yii2\base\Module.php:532
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('statics/mch/css...', Array)
+#1 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: 页面未找到。 in F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php:114
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#2 {main}
+2018-03-16 22:44:19 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "statics/mch/css/bootstrap.min.css.map". in F:\www\alone.cn\vendor\yiisoft\yii2\base\Module.php:532
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('statics/mch/css...', Array)
+#1 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: 页面未找到。 in F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php:114
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#2 {main}
+2018-03-16 22:44:20 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "statics/mch/css/bootstrap.min.css.map". in F:\www\alone.cn\vendor\yiisoft\yii2\base\Module.php:532
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('statics/mch/css...', Array)
+#1 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: 页面未找到。 in F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php:114
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#2 {main}
+2018-03-16 22:44:21 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "statics/mch/css/bootstrap.min.css.map". in F:\www\alone.cn\vendor\yiisoft\yii2\base\Module.php:532
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('statics/mch/css...', Array)
+#1 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: 页面未找到。 in F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php:114
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#2 {main}
+2018-03-16 22:44:21 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "statics/mch/css/bootstrap.min.css.map". in F:\www\alone.cn\vendor\yiisoft\yii2\base\Module.php:532
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('statics/mch/css...', Array)
+#1 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: 页面未找到。 in F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php:114
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#2 {main}
+2018-03-16 22:45:12 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "statics/mch/css/bootstrap.min.css.map". in F:\www\alone.cn\vendor\yiisoft\yii2\base\Module.php:532
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('statics/mch/css...', Array)
+#1 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: 页面未找到。 in F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php:114
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#2 {main}
+2018-03-16 22:45:14 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "statics/mch/css/bootstrap.min.css.map". in F:\www\alone.cn\vendor\yiisoft\yii2\base\Module.php:532
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('statics/mch/css...', Array)
+#1 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: 页面未找到。 in F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php:114
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#2 {main}
+2018-03-16 22:45:14 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "statics/mch/css/bootstrap.min.css.map". in F:\www\alone.cn\vendor\yiisoft\yii2\base\Module.php:532
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('statics/mch/css...', Array)
+#1 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: 页面未找到。 in F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php:114
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#2 {main}
+2018-03-16 22:45:27 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "statics/mch/css/bootstrap.min.css.map". in F:\www\alone.cn\vendor\yiisoft\yii2\base\Module.php:532
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('statics/mch/css...', Array)
+#1 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: 页面未找到。 in F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php:114
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#2 {main}
+2018-03-16 22:45:31 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "statics/mch/css/bootstrap.min.css.map". in F:\www\alone.cn\vendor\yiisoft\yii2\base\Module.php:532
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('statics/mch/css...', Array)
+#1 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: 页面未找到。 in F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php:114
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#2 {main}
+2018-03-16 22:45:31 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "statics/mch/css/bootstrap.min.css.map". in F:\www\alone.cn\vendor\yiisoft\yii2\base\Module.php:532
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('statics/mch/css...', Array)
+#1 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: 页面未找到。 in F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php:114
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#2 {main}
+2018-03-16 22:45:32 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "statics/mch/css/bootstrap.min.css.map". in F:\www\alone.cn\vendor\yiisoft\yii2\base\Module.php:532
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('statics/mch/css...', Array)
+#1 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: 页面未找到。 in F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php:114
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#2 {main}
+2018-03-16 22:45:33 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "statics/mch/css/bootstrap.min.css.map". in F:\www\alone.cn\vendor\yiisoft\yii2\base\Module.php:532
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('statics/mch/css...', Array)
+#1 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: 页面未找到。 in F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php:114
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#2 {main}
+2018-03-16 22:45:33 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "statics/mch/css/bootstrap.min.css.map". in F:\www\alone.cn\vendor\yiisoft\yii2\base\Module.php:532
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('statics/mch/css...', Array)
+#1 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: 页面未找到。 in F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php:114
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#2 {main}
+2018-03-16 22:45:34 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "statics/mch/css/bootstrap.min.css.map". in F:\www\alone.cn\vendor\yiisoft\yii2\base\Module.php:532
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('statics/mch/css...', Array)
+#1 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: 页面未找到。 in F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php:114
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#2 {main}
+2018-03-17 16:58:57 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "statics/mch/css/bootstrap.min.css.map". in F:\www\alone.cn\vendor\yiisoft\yii2\base\Module.php:532
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('statics/mch/css...', Array)
+#1 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: 页面未找到。 in F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php:114
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#2 {main}
+2018-03-17 16:59:01 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "statics/mch/css/bootstrap.min.css.map". in F:\www\alone.cn\vendor\yiisoft\yii2\base\Module.php:532
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('statics/mch/css...', Array)
+#1 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: 页面未找到。 in F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php:114
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#2 {main}
+2018-03-17 16:59:43 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "statics/mch/css/bootstrap.min.css.map". in F:\www\alone.cn\vendor\yiisoft\yii2\base\Module.php:532
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('statics/mch/css...', Array)
+#1 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: 页面未找到。 in F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php:114
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#2 {main}
+2018-03-18 13:38:41 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "statics/mch/css/bootstrap.min.css.map". in F:\www\alone.cn\vendor\yiisoft\yii2\base\Module.php:532
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('statics/mch/css...', Array)
+#1 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: 页面未找到。 in F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php:114
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#2 {main}
+2018-03-18 13:39:39 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "statics/mch/css/bootstrap.min.css.map". in F:\www\alone.cn\vendor\yiisoft\yii2\base\Module.php:532
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('statics/mch/css...', Array)
+#1 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: 页面未找到。 in F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php:114
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#2 {main}
+2018-03-18 13:39:41 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "statics/mch/css/bootstrap.min.css.map". in F:\www\alone.cn\vendor\yiisoft\yii2\base\Module.php:532
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('statics/mch/css...', Array)
+#1 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: 页面未找到。 in F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php:114
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#2 {main}
+2018-03-18 20:29:25 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "favicon.ico". in F:\www\alone.cn\vendor\yiisoft\yii2\base\Module.php:532
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('favicon.ico', Array)
+#1 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: 页面未找到。 in F:\www\alone.cn\vendor\yiisoft\yii2\web\Application.php:114
+Stack trace:
+#0 F:\www\alone.cn\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 F:\www\alone.cn\web\index.php(19): yii\base\Application->run()
+#2 {main}
