@@ -1,0 +1,211 @@
+a:11:{s:6:"config";a:5:{s:10:"phpVersion";s:5:"7.2.3";s:10:"yiiVersion";s:6:"2.0.12";s:11:"application";a:8:{s:3:"yii";s:6:"2.0.12";s:4:"name";s:14:"My Application";s:7:"version";s:3:"1.0";s:8:"language";s:5:"zh-CN";s:14:"sourceLanguage";s:5:"en-US";s:7:"charset";s:5:"UTF-8";s:3:"env";s:3:"dev";s:5:"debug";b:1;}s:3:"php";a:5:{s:7:"version";s:5:"7.2.3";s:6:"xdebug";b:0;s:3:"apc";b:0;s:8:"memcache";b:0;s:9:"memcached";b:0;}s:10:"extensions";a:5:{s:22:"yiisoft/yii2-bootstrap";a:3:{s:4:"name";s:22:"yiisoft/yii2-bootstrap";s:7:"version";s:7:"2.0.6.0";s:5:"alias";a:1:{s:14:"@yii/bootstrap";s:83:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/vendor/yiisoft/yii2-bootstrap";}}s:16:"yiisoft/yii2-gii";a:3:{s:4:"name";s:16:"yiisoft/yii2-gii";s:7:"version";s:7:"2.0.5.0";s:5:"alias";a:1:{s:8:"@yii/gii";s:77:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/vendor/yiisoft/yii2-gii";}}s:18:"yiisoft/yii2-faker";a:3:{s:4:"name";s:18:"yiisoft/yii2-faker";s:7:"version";s:7:"2.0.3.0";s:5:"alias";a:1:{s:10:"@yii/faker";s:79:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/vendor/yiisoft/yii2-faker";}}s:24:"yiisoft/yii2-swiftmailer";a:3:{s:4:"name";s:24:"yiisoft/yii2-swiftmailer";s:7:"version";s:7:"2.0.7.0";s:5:"alias";a:1:{s:16:"@yii/swiftmailer";s:85:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/vendor/yiisoft/yii2-swiftmailer";}}s:18:"yiisoft/yii2-debug";a:3:{s:4:"name";s:18:"yiisoft/yii2-debug";s:7:"version";s:7:"2.0.9.0";s:5:"alias";a:1:{s:10:"@yii/debug";s:79:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/vendor/yiisoft/yii2-debug";}}}}s:7:"request";a:14:{s:7:"flashes";a:0:{}s:10:"statusCode";i:200;s:14:"requestHeaders";a:9:{s:4:"host";s:2:"fg";s:10:"connection";s:10:"keep-alive";s:6:"pragma";s:8:"no-cache";s:13:"cache-control";s:8:"no-cache";s:10:"user-agent";s:36:"wechatdevtools appservice port/51595";s:12:"content-type";s:33:"application/x-www-form-urlencoded";s:6:"accept";s:3:"*/*";s:7:"referer";s:69:"https://servicewechat.com/wx2f44d41564140f7f/devtools/page-frame.html";s:15:"accept-encoding";s:17:"gzip, deflate, br";}s:15:"responseHeaders";a:2:{s:12:"X-Powered-By";s:9:"PHP/7.2.3";s:12:"Content-Type";s:31:"application/json; charset=UTF-8";}s:5:"route";s:32:"api/default/navigation-bar-color";s:6:"action";s:73:"app\modules\api\controllers\DefaultController::actionNavigationBarColor()";s:12:"actionParams";a:0:{}s:11:"requestBody";a:0:{}s:6:"SERVER";a:67:{s:9:"UNIQUE_ID";s:27:"Wvq7TUXA8stbnmsT80@hGQAAAAA";s:5:"HTTPS";s:2:"on";s:11:"SSL_TLS_SNI";s:2:"fg";s:17:"SSL_SERVER_S_DN_C";s:2:"DE";s:18:"SSL_SERVER_S_DN_ST";s:6:"Berlin";s:17:"SSL_SERVER_S_DN_L";s:6:"Berlin";s:17:"SSL_SERVER_S_DN_O";s:14:"Apache Friends";s:18:"SSL_SERVER_S_DN_CN";s:9:"localhost";s:17:"SSL_SERVER_I_DN_C";s:2:"DE";s:18:"SSL_SERVER_I_DN_ST";s:6:"Berlin";s:17:"SSL_SERVER_I_DN_L";s:6:"Berlin";s:17:"SSL_SERVER_I_DN_O";s:14:"Apache Friends";s:18:"SSL_SERVER_I_DN_CN";s:9:"localhost";s:21:"SSL_VERSION_INTERFACE";s:14:"mod_ssl/2.4.29";s:19:"SSL_VERSION_LIBRARY";s:14:"OpenSSL/1.0.2n";s:12:"SSL_PROTOCOL";s:7:"TLSv1.2";s:16:"SSL_SECURE_RENEG";s:4:"true";s:19:"SSL_COMPRESS_METHOD";s:4:"NULL";s:10:"SSL_CIPHER";s:27:"ECDHE-RSA-AES128-GCM-SHA256";s:17:"SSL_CIPHER_EXPORT";s:5:"false";s:21:"SSL_CIPHER_USEKEYSIZE";s:3:"128";s:21:"SSL_CIPHER_ALGKEYSIZE";s:3:"128";s:17:"SSL_CLIENT_VERIFY";s:4:"NONE";s:20:"SSL_SERVER_M_VERSION";s:1:"3";s:19:"SSL_SERVER_M_SERIAL";s:2:"00";s:18:"SSL_SERVER_V_START";s:24:"Oct  1 09:10:30 2004 GMT";s:16:"SSL_SERVER_V_END";s:24:"Sep 30 09:10:30 2010 GMT";s:15:"SSL_SERVER_S_DN";s:53:"CN=localhost,O=Apache Friends,L=Berlin,ST=Berlin,C=DE";s:15:"SSL_SERVER_I_DN";s:53:"CN=localhost,O=Apache Friends,L=Berlin,ST=Berlin,C=DE";s:16:"SSL_SERVER_A_KEY";s:13:"rsaEncryption";s:16:"SSL_SERVER_A_SIG";s:20:"md5WithRSAEncryption";s:19:"SSL_SESSION_RESUMED";s:7:"Initial";s:9:"HTTP_HOST";s:2:"fg";s:15:"HTTP_CONNECTION";s:10:"keep-alive";s:11:"HTTP_PRAGMA";s:8:"no-cache";s:18:"HTTP_CACHE_CONTROL";s:8:"no-cache";s:15:"HTTP_USER_AGENT";s:36:"wechatdevtools appservice port/51595";s:12:"CONTENT_TYPE";s:33:"application/x-www-form-urlencoded";s:11:"HTTP_ACCEPT";s:3:"*/*";s:12:"HTTP_REFERER";s:69:"https://servicewechat.com/wx2f44d41564140f7f/devtools/page-frame.html";s:20:"HTTP_ACCEPT_ENCODING";s:17:"gzip, deflate, br";s:4:"PATH";s:29:"/usr/bin:/bin:/usr/sbin:/sbin";s:17:"DYLD_LIBRARY_PATH";s:69:"/Applications/XAMPP/xamppfiles/lib:/Applications/XAMPP/xamppfiles/lib";s:16:"SERVER_SIGNATURE";s:0:"";s:15:"SERVER_SOFTWARE";s:77:"Apache/2.4.29 (Unix) OpenSSL/1.0.2n PHP/7.2.3 mod_perl/2.0.8-dev Perl/v5.16.3";s:11:"SERVER_NAME";s:2:"fg";s:11:"SERVER_ADDR";s:3:"::1";s:11:"SERVER_PORT";s:3:"443";s:11:"REMOTE_ADDR";s:3:"::1";s:13:"DOCUMENT_ROOT";s:37:"/Applications/XAMPP/xamppfiles/htdocs";s:14:"REQUEST_SCHEME";s:5:"https";s:14:"CONTEXT_PREFIX";s:0:"";s:21:"CONTEXT_DOCUMENT_ROOT";s:37:"/Applications/XAMPP/xamppfiles/htdocs";s:12:"SERVER_ADMIN";s:15:"you@example.com";s:15:"SCRIPT_FILENAME";s:67:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/web/index.php";s:11:"REMOTE_PORT";s:5:"56121";s:17:"GATEWAY_INTERFACE";s:7:"CGI/1.1";s:15:"SERVER_PROTOCOL";s:8:"HTTP/1.1";s:14:"REQUEST_METHOD";s:3:"GET";s:12:"QUERY_STRING";s:10:"store_id=1";s:11:"REQUEST_URI";s:74:"/myyiiwechatdemo/web/index.php/api/default/navigation-bar-color?store_id=1";s:11:"SCRIPT_NAME";s:30:"/myyiiwechatdemo/web/index.php";s:9:"PATH_INFO";s:33:"/api/default/navigation-bar-color";s:15:"PATH_TRANSLATED";s:70:"/Applications/XAMPP/xamppfiles/htdocs/api/default/navigation-bar-color";s:8:"PHP_SELF";s:63:"/myyiiwechatdemo/web/index.php/api/default/navigation-bar-color";s:18:"REQUEST_TIME_FLOAT";d:1526381389.033999919891357421875;s:12:"REQUEST_TIME";i:1526381389;}s:3:"GET";a:1:{s:8:"store_id";s:1:"1";}s:4:"POST";a:0:{}s:6:"COOKIE";a:0:{}s:5:"FILES";a:0:{}s:7:"SESSION";a:0:{}}s:3:"log";a:1:{s:8:"messages";a:20:{i:0;a:6:{i:0;s:33:"Bootstrap with yii\log\Dispatcher";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1526381389.061378002166748046875;i:4;a:0:{}i:5;i:2048768;}i:1;a:6:{i:0;s:21:"Loading module: debug";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1526381389.0614109039306640625;i:4;a:0:{}i:5;i:2049944;}i:2;a:6:{i:0;s:44:"Bootstrap with yii\debug\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1526381389.0695459842681884765625;i:4;a:0:{}i:5;i:2502416;}i:3;a:6:{i:0;s:19:"Loading module: gii";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1526381389.0757410526275634765625;i:4;a:0:{}i:5;i:2758240;}i:4;a:6:{i:0;s:42:"Bootstrap with yii\gii\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1526381389.0761959552764892578125;i:4;a:0:{}i:5;i:2780432;}i:5;a:6:{i:0;s:143:"SET SESSION sql_mode = 'STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION'";i:1;i:4;i:2;s:23:"yii\db\Command::execute";i:3;d:1526381389.0795810222625732421875;i:4;a:0:{}i:5;i:3042784;}i:6;a:6:{i:0;s:69:"Opening DB connection: mysql:host=47.98.200.56;dbname=myyiiwechatdemo";i:1;i:4;i:2;s:23:"yii\db\Connection::open";i:3;d:1526381389.07960605621337890625;i:4;a:0:{}i:5;i:3044008;}i:19;a:6:{i:0;s:51:"Route requested: 'api/default/navigation-bar-color'";i:1;i:8;i:2;s:34:"yii\web\Application::handleRequest";i:3;d:1526381389.32682895660400390625;i:4;a:0:{}i:5;i:3304480;}i:20;a:6:{i:0;s:19:"Loading module: api";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1526381389.326847076416015625;i:4;a:0:{}i:5;i:3306120;}i:21;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `ushop_store`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1526381389.3453528881072998046875;i:4;a:1:{i:0;a:5:{s:4:"file";s:92:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/modules/api/controllers/Controller.php";s:4:"line";i:44;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:4623728;}i:24;a:6:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ushop_store' AND kcu.table_name = 'ushop_store'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1526381389.3846719264984130859375;i:4;a:1:{i:0;a:5:{s:4:"file";s:92:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/modules/api/controllers/Controller.php";s:4:"line";i:44;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:4659136;}i:27;a:6:{i:0;s:42:"SELECT * FROM `ushop_store` WHERE `id`='1'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1526381389.4322490692138671875;i:4;a:1:{i:0;a:5:{s:4:"file";s:92:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/modules/api/controllers/Controller.php";s:4:"line";i:44;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:4904320;}i:30;a:6:{i:0;s:41:"SHOW FULL COLUMNS FROM `ushop_wechat_app`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1526381389.5350170135498046875;i:4;a:1:{i:0;a:5:{s:4:"file";s:92:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/modules/api/controllers/Controller.php";s:4:"line";i:52;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:4931120;}i:33;a:6:{i:0;s:619:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ushop_wechat_app' AND kcu.table_name = 'ushop_wechat_app'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1526381389.5590140819549560546875;i:4;a:1:{i:0;a:5:{s:4:"file";s:92:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/modules/api/controllers/Controller.php";s:4:"line";i:52;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:4947544;}i:36;a:6:{i:0;s:45:"SELECT * FROM `ushop_wechat_app` WHERE `id`=1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1526381389.601666927337646484375;i:4;a:1:{i:0;a:5:{s:4:"file";s:92:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/modules/api/controllers/Controller.php";s:4:"line";i:52;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:4950008;}i:39;a:6:{i:0;s:46:"Route to run: api/default/navigation-bar-color";i:1;i:8;i:2;s:30:"yii\base\Controller::runAction";i:3;d:1526381389.6432249546051025390625;i:4;a:0:{}i:5;i:5186096;}i:40;a:6:{i:0;s:89:"Running action: app\modules\api\controllers\DefaultController::actionNavigationBarColor()";i:1;i:8;i:2;s:36:"yii\base\InlineAction::runWithParams";i:3;d:1526381389.6468589305877685546875;i:4;a:0:{}i:5;i:5307048;}i:41;a:6:{i:0;s:105:"SELECT * FROM `ushop_option` WHERE (`name`='navigation_bar_color') AND (`store_id`=1) AND (`group`='app')";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1526381389.647675991058349609375;i:4;a:2:{i:0;a:5:{s:4:"file";s:71:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/models/Option.php";s:4:"line";i:84;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:99:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/modules/api/controllers/DefaultController.php";s:4:"line";i:302;s:8:"function";s:3:"get";s:5:"class";s:17:"app\models\Option";s:4:"type";s:2:"::";}}i:5;i:5344536;}i:44;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `ushop_option`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1526381389.6829988956451416015625;i:4;a:2:{i:0;a:5:{s:4:"file";s:71:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/models/Option.php";s:4:"line";i:84;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:99:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/modules/api/controllers/DefaultController.php";s:4:"line";i:302;s:8:"function";s:3:"get";s:5:"class";s:17:"app\models\Option";s:4:"type";s:2:"::";}}i:5;i:5351504;}i:47;a:6:{i:0;s:611:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ushop_option' AND kcu.table_name = 'ushop_option'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1526381389.70491695404052734375;i:4;a:2:{i:0;a:5:{s:4:"file";s:71:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/models/Option.php";s:4:"line";i:84;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:99:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/modules/api/controllers/DefaultController.php";s:4:"line";i:302;s:8:"function";s:3:"get";s:5:"class";s:17:"app\models\Option";s:4:"type";s:2:"::";}}i:5;i:5364520;}}}s:9:"profiling";a:3:{s:6:"memory";i:5423936;s:4:"time";d:0.6951320171356201171875;s:8:"messages";a:22:{i:7;a:6:{i:0;s:69:"Opening DB connection: mysql:host=47.98.200.56;dbname=myyiiwechatdemo";i:1;i:80;i:2;s:23:"yii\db\Connection::open";i:3;d:1526381389.079617023468017578125;i:4;a:0:{}i:5;i:3044384;}i:8;a:6:{i:0;s:69:"Opening DB connection: mysql:host=47.98.200.56;dbname=myyiiwechatdemo";i:1;i:96;i:2;s:23:"yii\db\Connection::open";i:3;d:1526381389.2803471088409423828125;i:4;a:0:{}i:5;i:3059976;}i:9;a:6:{i:0;s:143:"SET SESSION sql_mode = 'STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION'";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1526381389.2803859710693359375;i:4;a:0:{}i:5;i:3060408;}i:10;a:6:{i:0;s:143:"SET SESSION sql_mode = 'STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION'";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1526381389.3227360248565673828125;i:4;a:0:{}i:5;i:3060792;}i:22;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `ushop_store`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1526381389.3454139232635498046875;i:4;a:1:{i:0;a:5:{s:4:"file";s:92:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/modules/api/controllers/Controller.php";s:4:"line";i:44;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:4625176;}i:23;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `ushop_store`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1526381389.38346195220947265625;i:4;a:1:{i:0;a:5:{s:4:"file";s:92:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/modules/api/controllers/Controller.php";s:4:"line";i:44;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:4656856;}i:25;a:6:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ushop_store' AND kcu.table_name = 'ushop_store'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1526381389.3847329616546630859375;i:4;a:1:{i:0;a:5:{s:4:"file";s:92:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/modules/api/controllers/Controller.php";s:4:"line";i:44;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:4661568;}i:26;a:6:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ushop_store' AND kcu.table_name = 'ushop_store'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1526381389.4275300502777099609375;i:4;a:1:{i:0;a:5:{s:4:"file";s:92:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/modules/api/controllers/Controller.php";s:4:"line";i:44;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:4663696;}i:28;a:6:{i:0;s:42:"SELECT * FROM `ushop_store` WHERE `id`='1'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1526381389.4323060512542724609375;i:4;a:1:{i:0;a:5:{s:4:"file";s:92:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/modules/api/controllers/Controller.php";s:4:"line";i:44;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:4905800;}i:29;a:6:{i:0;s:42:"SELECT * FROM `ushop_store` WHERE `id`='1'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1526381389.5345270633697509765625;i:4;a:1:{i:0;a:5:{s:4:"file";s:92:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/modules/api/controllers/Controller.php";s:4:"line";i:44;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:4911320;}i:31;a:6:{i:0;s:41:"SHOW FULL COLUMNS FROM `ushop_wechat_app`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1526381389.5350620746612548828125;i:4;a:1:{i:0;a:5:{s:4:"file";s:92:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/modules/api/controllers/Controller.php";s:4:"line";i:52;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:4932512;}i:32;a:6:{i:0;s:41:"SHOW FULL COLUMNS FROM `ushop_wechat_app`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1526381389.5587170124053955078125;i:4;a:1:{i:0;a:5:{s:4:"file";s:92:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/modules/api/controllers/Controller.php";s:4:"line";i:52;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:4946776;}i:34;a:6:{i:0;s:619:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ushop_wechat_app' AND kcu.table_name = 'ushop_wechat_app'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1526381389.559052944183349609375;i:4;a:1:{i:0;a:5:{s:4:"file";s:92:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/modules/api/controllers/Controller.php";s:4:"line";i:52;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:4949992;}i:35;a:6:{i:0;s:619:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ushop_wechat_app' AND kcu.table_name = 'ushop_wechat_app'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1526381389.6015040874481201171875;i:4;a:1:{i:0;a:5:{s:4:"file";s:92:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/modules/api/controllers/Controller.php";s:4:"line";i:52;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:4952248;}i:37;a:6:{i:0;s:45:"SELECT * FROM `ushop_wechat_app` WHERE `id`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1526381389.6017129421234130859375;i:4;a:1:{i:0;a:5:{s:4:"file";s:92:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/modules/api/controllers/Controller.php";s:4:"line";i:52;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:4951464;}i:38;a:6:{i:0;s:45:"SELECT * FROM `ushop_wechat_app` WHERE `id`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1526381389.6378700733184814453125;i:4;a:1:{i:0;a:5:{s:4:"file";s:92:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/modules/api/controllers/Controller.php";s:4:"line";i:52;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:4954496;}i:42;a:6:{i:0;s:105:"SELECT * FROM `ushop_option` WHERE (`name`='navigation_bar_color') AND (`store_id`=1) AND (`group`='app')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1526381389.64772701263427734375;i:4;a:2:{i:0;a:5:{s:4:"file";s:71:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/models/Option.php";s:4:"line";i:84;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:99:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/modules/api/controllers/DefaultController.php";s:4:"line";i:302;s:8:"function";s:3:"get";s:5:"class";s:17:"app\models\Option";s:4:"type";s:2:"::";}}i:5;i:5345928;}i:43;a:6:{i:0;s:105:"SELECT * FROM `ushop_option` WHERE (`name`='navigation_bar_color') AND (`store_id`=1) AND (`group`='app')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1526381389.6828858852386474609375;i:4;a:2:{i:0;a:5:{s:4:"file";s:71:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/models/Option.php";s:4:"line";i:84;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:99:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/modules/api/controllers/DefaultController.php";s:4:"line";i:302;s:8:"function";s:3:"get";s:5:"class";s:17:"app\models\Option";s:4:"type";s:2:"::";}}i:5;i:5348520;}i:45;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `ushop_option`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1526381389.683042049407958984375;i:4;a:2:{i:0;a:5:{s:4:"file";s:71:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/models/Option.php";s:4:"line";i:84;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:99:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/modules/api/controllers/DefaultController.php";s:4:"line";i:302;s:8:"function";s:3:"get";s:5:"class";s:17:"app\models\Option";s:4:"type";s:2:"::";}}i:5;i:5353248;}i:46;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `ushop_option`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1526381389.704679012298583984375;i:4;a:2:{i:0;a:5:{s:4:"file";s:71:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/models/Option.php";s:4:"line";i:84;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:99:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/modules/api/controllers/DefaultController.php";s:4:"line";i:302;s:8:"function";s:3:"get";s:5:"class";s:17:"app\models\Option";s:4:"type";s:2:"::";}}i:5;i:5360704;}i:48;a:6:{i:0;s:611:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ushop_option' AND kcu.table_name = 'ushop_option'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1526381389.70495891571044921875;i:4;a:2:{i:0;a:5:{s:4:"file";s:71:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/models/Option.php";s:4:"line";i:84;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:99:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/modules/api/controllers/DefaultController.php";s:4:"line";i:302;s:8:"function";s:3:"get";s:5:"class";s:17:"app\models\Option";s:4:"type";s:2:"::";}}i:5;i:5367328;}i:49;a:6:{i:0;s:611:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ushop_option' AND kcu.table_name = 'ushop_option'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1526381389.7370479106903076171875;i:4;a:2:{i:0;a:5:{s:4:"file";s:71:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/models/Option.php";s:4:"line";i:84;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:99:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/modules/api/controllers/DefaultController.php";s:4:"line";i:302;s:8:"function";s:3:"get";s:5:"class";s:17:"app\models\Option";s:4:"type";s:2:"::";}}i:5;i:5369832;}}}s:2:"db";a:1:{s:8:"messages";a:20:{i:9;a:6:{i:0;s:143:"SET SESSION sql_mode = 'STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION'";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1526381389.2803859710693359375;i:4;a:0:{}i:5;i:3060408;}i:10;a:6:{i:0;s:143:"SET SESSION sql_mode = 'STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION'";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1526381389.3227360248565673828125;i:4;a:0:{}i:5;i:3060792;}i:22;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `ushop_store`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1526381389.3454139232635498046875;i:4;a:1:{i:0;a:5:{s:4:"file";s:92:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/modules/api/controllers/Controller.php";s:4:"line";i:44;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:4625176;}i:23;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `ushop_store`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1526381389.38346195220947265625;i:4;a:1:{i:0;a:5:{s:4:"file";s:92:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/modules/api/controllers/Controller.php";s:4:"line";i:44;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:4656856;}i:25;a:6:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ushop_store' AND kcu.table_name = 'ushop_store'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1526381389.3847329616546630859375;i:4;a:1:{i:0;a:5:{s:4:"file";s:92:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/modules/api/controllers/Controller.php";s:4:"line";i:44;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:4661568;}i:26;a:6:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ushop_store' AND kcu.table_name = 'ushop_store'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1526381389.4275300502777099609375;i:4;a:1:{i:0;a:5:{s:4:"file";s:92:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/modules/api/controllers/Controller.php";s:4:"line";i:44;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:4663696;}i:28;a:6:{i:0;s:42:"SELECT * FROM `ushop_store` WHERE `id`='1'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1526381389.4323060512542724609375;i:4;a:1:{i:0;a:5:{s:4:"file";s:92:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/modules/api/controllers/Controller.php";s:4:"line";i:44;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:4905800;}i:29;a:6:{i:0;s:42:"SELECT * FROM `ushop_store` WHERE `id`='1'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1526381389.5345270633697509765625;i:4;a:1:{i:0;a:5:{s:4:"file";s:92:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/modules/api/controllers/Controller.php";s:4:"line";i:44;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:4911320;}i:31;a:6:{i:0;s:41:"SHOW FULL COLUMNS FROM `ushop_wechat_app`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1526381389.5350620746612548828125;i:4;a:1:{i:0;a:5:{s:4:"file";s:92:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/modules/api/controllers/Controller.php";s:4:"line";i:52;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:4932512;}i:32;a:6:{i:0;s:41:"SHOW FULL COLUMNS FROM `ushop_wechat_app`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1526381389.5587170124053955078125;i:4;a:1:{i:0;a:5:{s:4:"file";s:92:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/modules/api/controllers/Controller.php";s:4:"line";i:52;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:4946776;}i:34;a:6:{i:0;s:619:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ushop_wechat_app' AND kcu.table_name = 'ushop_wechat_app'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1526381389.559052944183349609375;i:4;a:1:{i:0;a:5:{s:4:"file";s:92:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/modules/api/controllers/Controller.php";s:4:"line";i:52;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:4949992;}i:35;a:6:{i:0;s:619:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ushop_wechat_app' AND kcu.table_name = 'ushop_wechat_app'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1526381389.6015040874481201171875;i:4;a:1:{i:0;a:5:{s:4:"file";s:92:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/modules/api/controllers/Controller.php";s:4:"line";i:52;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:4952248;}i:37;a:6:{i:0;s:45:"SELECT * FROM `ushop_wechat_app` WHERE `id`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1526381389.6017129421234130859375;i:4;a:1:{i:0;a:5:{s:4:"file";s:92:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/modules/api/controllers/Controller.php";s:4:"line";i:52;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:4951464;}i:38;a:6:{i:0;s:45:"SELECT * FROM `ushop_wechat_app` WHERE `id`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1526381389.6378700733184814453125;i:4;a:1:{i:0;a:5:{s:4:"file";s:92:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/modules/api/controllers/Controller.php";s:4:"line";i:52;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:4954496;}i:42;a:6:{i:0;s:105:"SELECT * FROM `ushop_option` WHERE (`name`='navigation_bar_color') AND (`store_id`=1) AND (`group`='app')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1526381389.64772701263427734375;i:4;a:2:{i:0;a:5:{s:4:"file";s:71:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/models/Option.php";s:4:"line";i:84;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:99:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/modules/api/controllers/DefaultController.php";s:4:"line";i:302;s:8:"function";s:3:"get";s:5:"class";s:17:"app\models\Option";s:4:"type";s:2:"::";}}i:5;i:5345928;}i:43;a:6:{i:0;s:105:"SELECT * FROM `ushop_option` WHERE (`name`='navigation_bar_color') AND (`store_id`=1) AND (`group`='app')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1526381389.6828858852386474609375;i:4;a:2:{i:0;a:5:{s:4:"file";s:71:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/models/Option.php";s:4:"line";i:84;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:99:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/modules/api/controllers/DefaultController.php";s:4:"line";i:302;s:8:"function";s:3:"get";s:5:"class";s:17:"app\models\Option";s:4:"type";s:2:"::";}}i:5;i:5348520;}i:45;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `ushop_option`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1526381389.683042049407958984375;i:4;a:2:{i:0;a:5:{s:4:"file";s:71:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/models/Option.php";s:4:"line";i:84;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:99:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/modules/api/controllers/DefaultController.php";s:4:"line";i:302;s:8:"function";s:3:"get";s:5:"class";s:17:"app\models\Option";s:4:"type";s:2:"::";}}i:5;i:5353248;}i:46;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `ushop_option`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1526381389.704679012298583984375;i:4;a:2:{i:0;a:5:{s:4:"file";s:71:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/models/Option.php";s:4:"line";i:84;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:99:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/modules/api/controllers/DefaultController.php";s:4:"line";i:302;s:8:"function";s:3:"get";s:5:"class";s:17:"app\models\Option";s:4:"type";s:2:"::";}}i:5;i:5360704;}i:48;a:6:{i:0;s:611:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ushop_option' AND kcu.table_name = 'ushop_option'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1526381389.70495891571044921875;i:4;a:2:{i:0;a:5:{s:4:"file";s:71:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/models/Option.php";s:4:"line";i:84;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:99:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/modules/api/controllers/DefaultController.php";s:4:"line";i:302;s:8:"function";s:3:"get";s:5:"class";s:17:"app\models\Option";s:4:"type";s:2:"::";}}i:5;i:5367328;}i:49;a:6:{i:0;s:611:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ushop_option' AND kcu.table_name = 'ushop_option'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1526381389.7370479106903076171875;i:4;a:2:{i:0;a:5:{s:4:"file";s:71:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/models/Option.php";s:4:"line";i:84;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:99:"/Applications/XAMPP/xamppfiles/htdocs/myyiiwechatdemo/modules/api/controllers/DefaultController.php";s:4:"line";i:302;s:8:"function";s:3:"get";s:5:"class";s:17:"app\models\Option";s:4:"type";s:2:"::";}}i:5;i:5369832;}}}s:6:"assets";a:0:{}s:4:"mail";a:0:{}s:8:"timeline";a:3:{s:5:"start";d:1526381389.045835971832275390625;s:3:"end";d:1526381389.7423551082611083984375;s:6:"memory";i:5454960;}s:4:"user";N;s:6:"router";a:1:{s:8:"messages";a:8:{i:11;a:6:{i:0;a:3:{s:4:"rule";s:3:"gii";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1526381389.32670307159423828125;i:4;a:0:{}i:5;i:3298520;}i:12;a:6:{i:0;a:3:{s:4:"rule";s:12:"gii/<id:\w+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1526381389.3267290592193603515625;i:4;a:0:{}i:5;i:3299312;}i:13;a:6:{i:0;a:3:{s:4:"rule";s:41:"gii/<controller:[\w\-]+>/<action:[\w\-]+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1526381389.32674407958984375;i:4;a:0:{}i:5;i:3300144;}i:14;a:6:{i:0;a:3:{s:4:"rule";s:5:"debug";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1526381389.326757907867431640625;i:4;a:0:{}i:5;i:3300928;}i:15;a:6:{i:0;a:3:{s:4:"rule";s:43:"debug/<controller:[\w\-]+>/<action:[\w\-]+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1526381389.3267719745635986328125;i:4;a:0:{}i:5;i:3301760;}i:16;a:6:{i:0;a:3:{s:4:"rule";s:38:"<controller:\w+>/<action:\w+>/<id:\d+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1526381389.32678699493408203125;i:4;a:0:{}i:5;i:3302576;}i:17;a:6:{i:0;a:3:{s:4:"rule";s:29:"<controller:\w+>/<action:\w+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1526381389.3268029689788818359375;i:4;a:0:{}i:5;i:3304024;}i:18;a:6:{i:0;s:55:"No matching URL rules. Using default URL parsing logic.";i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1526381389.3268110752105712890625;i:4;a:0:{}i:5;i:3304400;}}}s:7:"summary";a:9:{s:3:"tag";s:13:"5afabb4d11227";s:3:"url";s:84:"https://fg/myyiiwechatdemo/web/index.php/api/default/navigation-bar-color?store_id=1";s:4:"ajax";i:0;s:6:"method";s:3:"GET";s:2:"ip";s:3:"::1";s:4:"time";d:1526381389.033999919891357421875;s:10:"statusCode";i:200;s:8:"sqlCount";i:10;s:9:"mailCount";i:0;}}
